@@ -1,0 +1,1 @@
+export const DB_NAME = "miraculous_bee_db";
